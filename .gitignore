@@ -96,6 +96,8 @@ Thumbs.db
 .env
 .env.*
 
+
+
 # Model weights / checkpoints (large files)
 *.ckpt
 *.pth
@@ -111,7 +113,8 @@ datasets/
 *.tsv
 *.xlsx
 
-# Results
+# data sets and results
+Medical_Reports/
 results/
 outputs/
 logs/
