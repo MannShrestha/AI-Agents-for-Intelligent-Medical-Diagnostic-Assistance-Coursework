@@ -95,6 +95,7 @@ Thumbs.db
 # Environment variables
 .env
 .env.*
+datasetlink.txt
 
 
 
